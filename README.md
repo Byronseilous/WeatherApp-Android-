@@ -1,4 +1,4 @@
-![](media/instant_weather_github.png)
+
 # Instant Weather :partly_sunny:
 
 ![Android Build](https://github.com/mayokunthefirst/Instant-Weather/workflows/Android%20Build/badge.svg) ![Android Weekly](https://androidweekly.net/issues/issue-413/badge) [![BCH compliance](https://bettercodehub.com/edge/badge/mayokunthefirst/Instant-Weather?branch=master)](https://bettercodehub.com/) ![My twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmayokunadeniyi) ![Shield](https://img.shields.io/badge/contributions-welcome-brightgreen)
