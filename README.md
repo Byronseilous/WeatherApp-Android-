@@ -43,10 +43,10 @@ Each record follows this structure:
 ````JSON
 {
     "objectID": "ffe74e4cdddbc_dashboard_generated_id",
-    "country": "Zimbabwe",
+    "country": "Ethiopia",
     "geonameid": 1085510,
     "name": "Epworth",
-    "subcountry": "Harare"
+    "subcountry": "Addisababa"
 }
   
 ````
@@ -60,32 +60,4 @@ ALGOLIA_APP_ID = "YOUR_APP_ID"
 ALGOLIA_INDEX_NAME = "YOUR_INDEX_NAME"
 
 ````
-## Contribution
-All contributions are welcome. If you are interested in seeing a particular feature implemented in this app, please open a new issue after which you can make a PR!
 
-![Alt](https://repobeats.axiom.co/api/embed/84dfd3cd94832805dbcaa3569ec855d19e5c9401.svg "Repobeats analytics image")
-
-## LICENSE
-```
-MIT License
-
-Copyright (c) 2020 Mayokun Adeniyi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
